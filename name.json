@@ -1,1 +1,30 @@
-{"name":"Muhammad haris"}
+{
+    "about": {
+    "fullname": "Muhammad Haris",
+    "email": "mhk999@gmail.com",
+    "website": "mhk.com",
+    "address": "USA(United States of Adhra)",
+    "profileimage": "😆",
+    "social": "importedbajwa.com/mhk"
+  },
+  "education": {
+    "school": "SLS",
+    "college": "PGC",
+    "university": "Comsats"
+  },
+  "work": {
+    "work_1": "Parhi",
+    "work_2": "Gym",
+    "work_3": "Eat"
+  },
+  "skills": {
+    "skills_1": "cricketer",
+    "skills_2": "pro grammer",
+    "skills_3": "spy"
+  },
+  "contact": {
+    "gmail": "mhk999@gmail.com",
+    "phone": "090078601",
+    "insta": "@mhk"
+  }
+}
